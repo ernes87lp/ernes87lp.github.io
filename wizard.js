@@ -2,7 +2,7 @@ var WIZARD_CONFIG = {
   "title": "Bienvenido",
   "subtitle": "¿Qué tipo de atención necesitás?",
   "color": "#d52b1e",
-  "logo": "data:image/svg+xml;base64,https://www.bbva.com/wp-content/uploads/2019/04/Logo-BBVA-1024x576.jpg",
+  "logo": "https://www.bbva.com/wp-content/uploads/2019/04/Logo-BBVA-1024x576.jpg",
   "options": [
     {
       "id": "comercial",
