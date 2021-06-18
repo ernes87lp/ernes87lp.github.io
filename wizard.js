@@ -1,8 +1,8 @@
 var WIZARD_CONFIG = {
-  "title": "Bienvenido",
+  "title": "Bienvenido!",
   "subtitle": "¿Qué tipo de atención necesitás?",
-  "color": "#d52b1e",
-  "logo": "https://promociones.com.ar/wp-content/uploads/2018/07/20171012_frances_300x200.png",
+  "color": "#14549C",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Logotipo_de_BBVA.svg/1280px-Logotipo_de_BBVA.svg.png",
   "options": [
     {
       "id": "comercial",
