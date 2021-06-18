@@ -2,7 +2,7 @@ var WIZARD_CONFIG = {
   "title": "Bienvenido",
   "subtitle": "¿Qué tipo de atención necesitás?",
   "color": "#d52b1e",
-  "logo": "https://www.bbva.com/wp-content/uploads/2019/04/Logo-BBVA-1024x576.jpg",
+  "logo": "https://promociones.com.ar/wp-content/uploads/2018/07/20171012_frances_300x200.png",
   "options": [
     {
       "id": "comercial",
