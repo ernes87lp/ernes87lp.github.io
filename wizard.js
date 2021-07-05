@@ -34,14 +34,7 @@ var WIZARD_CONFIG = {
               "title": "Consultar mi CBU",
               "image": "https://placeimg.com/300/200/any?id=consultar-cbu",
               "type": "html",
-              "content": "<div style='text-align: left'><p>Consultá tu CBU desde Online Banking o App Supervielle<br> Ingresando al menú <strong>Cuentas</strong></p><p><strong>¿No estás registrado en Online Banking? </strong></p><p>Descargá la App Supervielle desde Play Store o App Store y registrate</p><p><a href='https://www.supervielle.com.ar/personas/servicios-digitales/app-supervielle' target='_self'>Ver tutorial registración</a></p></div>"
-            },
-            {
-              "id": "cerrar-cuenta",
-              "title": "Consultar mi CBU",
-              "image": "https://placeimg.com/300/200/any?id=cerrar-cuenta",
-              "type": "html",
-              "content": "<div style='text-align: left'><p>Podés cerrar tu cuenta y tarjetas desde Online Banking.</p><p>Ingresá  <strong>Cuentas &gt;  Solicitudes &gt;  Cierre de Cuenta</strong><br>Una vez hecho, recibirás por mail la confirmación de la operación</p><p><strong>¿No estás registrado en Online Banking?  </strong></p><p>Descargá la App Supervielle desde Play Store o App Store y registrate</p><p><a href='https://www.supervielle.com.ar/personas/servicios-digitales/app-supervielle' target='_self'>Ver tutorial registración</a></p></div>"
+              "content": "<div style='text-align: left'><p>Consultá tu CBU desde Online Banking o App<br> Ingresando al menú <strong>Cuentas</strong></p><p><strong>¿No estás registrado en Online Banking? </strong></p><p>Descargá la App desde Play Store o App Store y registrate</p></div>"
             }
           ]
         },
@@ -156,13 +149,6 @@ var WIZARD_CONFIG = {
               "content": "<div style='text-align: left'><p>Generá una orden de extracción desde tu Online Banking para que puedas retirar dinero vos u otra persona desde cualquier cajero automático de la red Banelco o Link</p><p><strong>¡Es muy facil!</strong></p><p>Enterate como hacerlo</p><p><a href='https://www.youtube.com/watch?v=usIOzhIy7wg' target='_self'>Retirar dinero sin tarjeta </a></p></div>"
             }
           ]
-        },
-        {
-          "id": "otro",
-          "title": "Otro",
-          "image": "https://placeimg.com/300/200/any?id=otro",
-          "type": "redirect",
-          "content": "https://www.supervielle.com.ar/personas/servicios-digitales/turno-online/modificar"
         }
       ]
     },
