@@ -2,7 +2,7 @@ var WIZARD_CONFIG = {
   "title": "Bienvenido!",
   "subtitle": "¿Qué tipo de atención necesitás?",
   "color": "#14549C",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Logotipo_de_BBVA.svg/1280px-Logotipo_de_BBVA.svg.png",
+  "logo": "https://www.bancosol.com.bo/sites/all/themes/bancosol_theme/logo.png",
   "options": [
     {
       "id": "comercial",
